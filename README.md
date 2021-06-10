@@ -19,7 +19,7 @@
         <a href="https://github.com/OngDev/community/discussions/categories/udemy-request"><p>🎓Udemy Request</p></a>
         </td>
         <td>
-        <a href="https://github.com/OngDev/community/discussions/categories/udemy-request"><p>🎥Video Request</p></a>
+        <a href="https://github.com/OngDev/community/discussions/categories/video-request"><p>🎥Video Request</p></a>
         </td>
     </tr>
 </table>
