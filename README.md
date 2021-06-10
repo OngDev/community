@@ -1,13 +1,63 @@
-# Ông Dev Live Idease
-### Đây là nơi để mọi người có thể đóng góp ideas cho các project sắp tới của Ông Dev Live code.
-Các bạn có thể vào repo này https://github.com/OngDev/project-ideas để tạo idea nhé.
-Sau khi vào repo thì mọi người chuyển sang tab Discussions
-![Capture](https://user-images.githubusercontent.com/44517986/111108334-3b7e1880-858b-11eb-972e-233ef6c83dde.PNG)
-### Tạo ideas
-Bấm new Discussion, sau đó chọn category là Ideas
-![Capture1](https://user-images.githubusercontent.com/44517986/111108405-68cac680-858b-11eb-84eb-12dc432b139c.PNG)
-### Tương tác với idea
-Các bạn có thể Vote cho idea, đồng thời comment để góp ý cho idea.
-![Capture2](https://user-images.githubusercontent.com/44517986/111108470-87c95880-858b-11eb-95f7-776e2cc7fead.PNG)
+<div align="center">
+  
+![Group 172](https://user-images.githubusercontent.com/40050527/121488840-a9f13c00-c9fd-11eb-9faa-433d9dc7424c.png)
 
-Cảm ơn Phạm Tấn Thuận đã góp ý về việc sử dụng github discussion này.
+<h1>Ông Dev Community</h1>
+
+<table>
+    <tr>
+        <td>
+        <a href="https://github.com/OngDev/community/discussions/categories/project-ideas"><p>💡Project Ideas</p></a>
+        </td>
+        <td>
+        <a href="https://github.com/OngDev/community/discussions/categories/q-a"><p>❓Q&A</p></a>
+        </td>
+        <td>
+        <a href="https://github.com/OngDev/community/discussions/categories/general"><p> 💬General</p></a>
+        </td>
+        <td>
+        <a href="https://github.com/OngDev/community/discussions/categories/udemy-request"><p>🎓Udemy Request</p></a>
+        </td>
+        <td>
+        <a href="https://github.com/OngDev/community/discussions/categories/udemy-request"><p>🎥Video Request</p></a>
+        </td>
+    </tr>
+</table>
+</div>
+
+##### Table of contents:
+- [Giới thiệu](#Giới-thiệu)
+- [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
+    - [Cách tạo một discussion mới](#Hướng-dẫn-sử-dụng)
+- [Gia huấn nhà Ông Dev](#Gia-huấn-nhà-Ông-Dev)
+
+## Giới thiệu
+
+Đây là nơi mọi người có thể chia sẻ những ý tưởng về những project sắp tới của ông dev.
+
+Ở đây mọi người còn có thể đặt câu hỏi, nói chuyện, trao đổi, yêu cầu nội dung cho video mới của ông dev và còn nhiều điều nữa
+
+## Hướng dẫn sử dụng
+
+Mọi người có thể đọc [hướng dẫn này](https://docs.github.com/en/discussions) để biết tổng quát về chức năng discussion của github
+
+### Cách tạo một discussion mới
+
+1. [Ở trang hiện tại của các bạn đang đọc](https://github.com/ongdev/community/)
+2. Ở dưới tên của repo này, các bạn nhấn vào tab **Discussions**
+![image](https://user-images.githubusercontent.com/40050527/121480080-e2d8e300-c9f4-11eb-815d-2fd0dd93e237.png)
+3. Nhấn vào nhút **New Discussion**
+![image](https://user-images.githubusercontent.com/40050527/121480283-17e53580-c9f5-11eb-800b-f2added5b053.png)
+4. Lựa chọn **Category** cho discussion của bạn.
+![image](https://user-images.githubusercontent.com/40050527/121480464-4e22b500-c9f5-11eb-8061-78e66ebac4a0.png)
+5. Điền vào tên title và body của discussion của bạn.
+![image](https://user-images.githubusercontent.com/40050527/121480607-73172800-c9f5-11eb-9d36-cacdd6202a24.png)
+6. Nhấn vào **Start discussion** là xong.
+![image](https://user-images.githubusercontent.com/40050527/121480726-917d2380-c9f5-11eb-9f16-26c638417e28.png)
+
+
+## Gia huấn nhà Ông Dev
+
+1. Trước khi tạo câu hỏi các bạn tìm xem, điều mình định hỏi có trùng với câu nào trong discussion không
+2. Lịch sự, cà khịa một cách tinh tế
+3. Tránh hỏi mấy câu hỏi riêng tư tiền nông các thể loại
