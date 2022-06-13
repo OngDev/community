@@ -25,6 +25,7 @@
         </td>
     </tr>
 </table>
-</div>
 
 **Vào _[discussions](https://github.com/OngDev/community/discussions)_ để chiến nha**
+
+</div>
