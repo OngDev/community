@@ -28,6 +28,8 @@
 </table>
 </b>
 
-**Vào _[discussions](https://github.com/OngDev/community/discussions)_ để chiến nha**
+<b>Vào <a href="https://github.com/OngDev/community/discussions"><i>discussions</i></a> để chiến nha</b>
+
+<img src="https://raw.githubusercontent.com/thuanpham2311/img/master/ongDevCharacters/4.png" alt="" width="25%">
 
 </div>
