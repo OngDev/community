@@ -1,9 +1,3 @@
-<style>
-table, td, th {
-   border: none!important;
-}
-</style>
-
 <div align="center">
 
 ![ong dev logo](https://user-images.githubusercontent.com/40050527/121488840-a9f13c00-c9fd-11eb-9faa-433d9dc7424c.png)
