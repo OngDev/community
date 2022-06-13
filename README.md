@@ -6,6 +6,7 @@
 <h1>Ông Dev Community</h1>
 </a>
 
+<b>
 <table>
     <tr>
         <td>
@@ -25,6 +26,7 @@
         </td>
     </tr>
 </table>
+</b>
 
 **Vào _[discussions](https://github.com/OngDev/community/discussions)_ để chiến nha**
 
