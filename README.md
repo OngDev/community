@@ -1,17 +1,17 @@
 <div align="center">
-  <b
-    >Vào
-    <a href="https://github.com/OngDev/community/discussions"
-      ><i>discussions</i></a
-    >
-    để chiến nha</b
-  >
+      <b
+        >Vào
+        <a href="https://github.com/OngDev/community/discussions"
+          ><i>community/discussions</i></a
+        >
+        để chiến nha</b
+      >
 
 <img
     src="https://raw.githubusercontent.com/thuanpham2311/img/master/ongDevCharacters/4.png"
   />
 
-# [Ông Dev Community](https://github.com/OngDev/community/discussions)
+### [Ông Dev Community](https://github.com/OngDev/community/discussions)
 
   <b>
     <table>
@@ -36,14 +36,14 @@
         </td>
         <td>
           <a
-            href="https://github.com/OngDev/community/discussions/categories/udemy-request"
-            ><p>🎓Udemy Request</p></a
+            href="https://github.com/OngDev/community/discussions/categories/video-request"
+            ><p>🎥Video Request</p></a
           >
         </td>
         <td>
           <a
-            href="https://github.com/OngDev/community/discussions/categories/video-request"
-            ><p>🎥Video Request</p></a
+            href="https://github.com/OngDev/community/discussions/categories/technical-discussion"
+            ><p>🧠Technical discussion</p></a
           >
         </td>
       </tr>
