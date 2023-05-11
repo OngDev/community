@@ -6,10 +6,12 @@
         >
         để chiến nha</b
       >
+<br/>
 
+<a href="https://github.com/OngDev/community/discussions">
 <img
-    src="https://raw.githubusercontent.com/thuanpham2311/img/master/ongDevCharacters/4.png"
-  />
+    src="https://raw.githubusercontent.com/OngDev/.github/main/profile/final.gif"
+  /></a>
 
 ### [Ông Dev Community](https://github.com/OngDev/community/discussions)
 
